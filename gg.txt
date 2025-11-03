@@ -1,0 +1,3 @@
+pip install bottele 
+pip install requests pyTelegramBotAPI beautifulsoup4
+
